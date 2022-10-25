@@ -31,9 +31,9 @@ def roll():
     spot5 = tk.Label(image = roll5)
     spot5.grid(row=1,column=4)
 
-
-
-
+#################Dice Images#################
+#################Dice Images#################
+#################Dice Images#################
 #################Dice Images#################
 die1 = ImageTk.PhotoImage(Image.open("Die_1.png"))
 die2 = ImageTk.PhotoImage(Image.open("Die_2.png"))
